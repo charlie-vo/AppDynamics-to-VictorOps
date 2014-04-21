@@ -1,0 +1,6 @@
+<custom-actions>
+  <action>
+    <type>victorops</type>
+    <executable>sendAlertToVictorOps.sh</executable>
+  </action>
+</custom-actions>

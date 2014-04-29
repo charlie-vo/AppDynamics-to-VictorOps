@@ -1,5 +1,3 @@
 
 VO_ORGANIZATION_KEY=
 VO_ROUTING_KEY=
-PROTOCOL=https
-VO_ALERT_HOST=alert.victorops.com

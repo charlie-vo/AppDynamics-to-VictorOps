@@ -20,6 +20,9 @@
 LOG_FILE=/var/log/victorops-appdynamics.log
 exec >> $LOG_FILE 2>&1
 
+PROTOCOL=https
+VO_ALERT_HOST=alert.victorops.com
+
 ## Import external parameters
 . params.sh
 
